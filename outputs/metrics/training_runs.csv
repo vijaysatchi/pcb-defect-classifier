@@ -1,0 +1,3 @@
+run_name,model,lr,batch_size,epochs_requested,epochs_run,seed,best_val_accuracy
+baseline_lr0.001_bs32,baseline,0.001,32,25,25,42,0.9764309764309764
+deeper_lr0.001_bs32,deeper,0.001,32,25,23,42,0.9932659932659933

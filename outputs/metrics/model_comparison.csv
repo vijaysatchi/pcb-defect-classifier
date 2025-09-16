@@ -1,0 +1,3 @@
+run_name,model,lr,batch_size,epochs_run,best_val_accuracy,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro
+deeper_lr0.001_bs32,deeper,0.001,32,23,0.9933,0.986,0.9862,0.9862,0.9862
+baseline_lr0.001_bs32,baseline,0.001,32,25,0.9764,0.9789,0.9797,0.9795,0.9793
