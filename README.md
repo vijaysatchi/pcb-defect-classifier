@@ -2,6 +2,8 @@
 
 A convolutional neural network that classifies printed circuit board (PCB) defects into four categories: missing hole, spur, short, and open circuit. Built in PyTorch, with NumPy for image preprocessing and Pandas for logging results.
 
+**[View the interactive results dashboard on Tableau Public](https://public.tableau.com/app/profile/vijay.satchi/viz/PCBDefectClassifier-ModelPerformanceDashboard/Dashboard1)** — KPIs, training curves, confusion matrix, and per-class metrics for both models.
+
 ## Problem statement
 
 Checking PCBs for defects by hand is slow and inconsistent. This project takes a cropped image of a defect on a PCB and classifies it into one of four defect types.
